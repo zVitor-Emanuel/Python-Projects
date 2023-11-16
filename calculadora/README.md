@@ -1,2 +1,2 @@
-Criando uma calculadora em python com interface gráfica através da biblitoteca tkinter
-
+Criando uma calculadora em python com interface gráfica através da biblitoteca tkinter.
+Esse foi meu primeiro projeto com interfáce gráfica em python, durante meus estudos montei uma boa base nos conceitos basicos de python, e quis colocalos em prática em um projeto fora do terminal, estudei um pouco do tkinter e consegui reproduzir da forma que eu esperava a calculadora. As cores eu peguei de referencia de um tema do sweet dark do gnome, tentei chegar proximo do que eu gostava dele. Por ser um projeto simples acabou que não foi tão dificl ser realizado, porem trombrei com alguns erros, principalmente na criacao das funcões retornando o valor para a o frame de tela, porem gostei muito do que produzi.
