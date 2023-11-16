@@ -29,11 +29,8 @@ text_value = StringVar()
 
 #functions
 def math(value):
-    
     global all_values
-
     all_values += str(value)
-    
     #value on screen
     text_value.set(all_values)
 
@@ -46,7 +43,6 @@ def calculate():
 
 
 def clean_screen():
-
     global all_values
     all_values = ''
     text_value.set('')
@@ -95,4 +91,3 @@ b18 = Button(keyboard_frame, command = lambda: calculate(), text='=', width='8',
 b18.place(x=278, y=290)
 
 window.mainloop()
-
